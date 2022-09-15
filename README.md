@@ -4,5 +4,5 @@
 ![alt text](https://i.ytimg.com/vi/wHbWJzCyH44/maxresdefault.jpg)
 
 ### MY SUPER CRAZY STATS!!!
-[![Stats](https://github-readme-stats.vercel.app/api?username=jetblacksalvation&show_icons=true&count_private=true&theme=radical)](https://github.com/jetblacksalvation)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetblacksalvations&layout=compact&theme=radical)](https://github.com/jetblacksalvation)
+[![Stats](https://github-readme-stats.vercel.app/api?username=jetblacksalvation&show_icons=true&count_private=false&theme=radical)](https://github.com/jetblacksalvation)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetblacksalvation&layout=compact&theme=radical)](https://github.com/jetblacksalvation)

@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=jetblacksalvation&show_icons=true&count_private=true&theme=radical)](https://github.com/jetblacksalvation)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubpa&layout=compact&theme=radical)](https://github.com/jetblacksalvation)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetblacksalvation&layout=compact&theme=radical)](https://github.com/jetblacksalvation)

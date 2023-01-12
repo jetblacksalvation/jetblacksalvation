@@ -4,7 +4,7 @@
 ## And I Also Really Like The Joker Becuase He Is Edgy And so Am I 😱😱😱😱
 ![alt text](https://i.ytimg.com/vi/wHbWJzCyH44/maxresdefault.jpg)
 ## AN OFFICIAL SHADOW WIZARD - I LOVE CASTING SPELLS
-![alt text] (https://static.wikia.nocookie.net/borderlands/images/1/1d/Wizard02.png/revision/latest?cb=20130728055641)
+![alt text](https://static.wikia.nocookie.net/borderlands/images/1/1d/Wizard02.png/revision/latest?cb=20130728055641)
 
 ### MY SUPER CRAZY STATS!!!
 [![Stats](https://github-readme-stats.vercel.app/api?username=jetblacksalvation&show_icons=true&count_private=false&theme=radical)](https://github.com/jetblacksalvation)
